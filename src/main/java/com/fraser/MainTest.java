@@ -1,6 +1,5 @@
 package com.fraser;
 
-import java.security.Key;
 import java.util.Arrays;
 
 import com.amazonaws.client.builder.AwsClientBuilder;
