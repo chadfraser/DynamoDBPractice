@@ -1,4 +1,4 @@
-package com.fraser;
+package com.fraser.amazontutorial;
 
 import java.io.File;
 import java.util.Iterator;

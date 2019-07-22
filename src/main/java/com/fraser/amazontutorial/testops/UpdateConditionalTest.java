@@ -1,4 +1,4 @@
-package com.fraser.testops;
+package com.fraser.amazontutorial.testops;
 
 import com.amazonaws.client.builder.AwsClientBuilder;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
